@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "syscrud", "syscrud\syscrud.csproj", "{AEFD784B-80CE-49DE-9A7E-A4BB46540EDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AEFD784B-80CE-49DE-9A7E-A4BB46540EDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEFD784B-80CE-49DE-9A7E-A4BB46540EDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEFD784B-80CE-49DE-9A7E-A4BB46540EDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEFD784B-80CE-49DE-9A7E-A4BB46540EDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

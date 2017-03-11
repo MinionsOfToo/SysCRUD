@@ -1,0 +1,12 @@
+D:\Projetos VS\CRUD\syscrud\syscrud\bin\Debug\syscrud.exe.config
+D:\Projetos VS\CRUD\syscrud\syscrud\bin\Debug\syscrud.exe
+D:\Projetos VS\CRUD\syscrud\syscrud\bin\Debug\syscrud.pdb
+D:\Projetos VS\CRUD\syscrud\syscrud\obj\Debug\syscrud.frm_login.resources
+D:\Projetos VS\CRUD\syscrud\syscrud\obj\Debug\syscrud.Properties.Resources.resources
+D:\Projetos VS\CRUD\syscrud\syscrud\obj\Debug\syscrud.csproj.GenerateResource.Cache
+D:\Projetos VS\CRUD\syscrud\syscrud\obj\Debug\syscrud.exe
+D:\Projetos VS\CRUD\syscrud\syscrud\obj\Debug\syscrud.pdb
+D:\Projetos VS\CRUD\syscrud\syscrud\obj\Debug\syscrud.frm_principal.resources
+D:\Projetos VS\CRUD\syscrud\syscrud\obj\Debug\syscrud.frm_atendentes.resources
+D:\Projetos VS\CRUD\syscrud\syscrud\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\Projetos VS\CRUD\syscrud\syscrud\obj\Debug\syscrud.csprojResolveAssemblyReference.cache
